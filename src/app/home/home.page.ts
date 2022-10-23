@@ -13,7 +13,5 @@ export class HomePage {
   addPhotoToGallery() {
     this.photoService.addNewToGallery();
 
-
   }
-
 }
